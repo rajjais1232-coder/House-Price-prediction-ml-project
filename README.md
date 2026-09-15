@@ -155,6 +155,12 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
+## 🚀 Live Demo
+
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-prediction-ml-model1.streamlit.app)
+
+👉 [Open House Price Prediction App](https://house-price-prediction-ml-model1.streamlit.app)
+
 ## Model Performance
 
 Models evaluated using **5-fold cross-validation** on 80% of the dataset:
@@ -209,3 +215,4 @@ This project is open source and available under the [MIT License](LICENSE).
 <div align="center">
   Built with ❤️ using Python · scikit-learn · Streamlit
 </div>
+
